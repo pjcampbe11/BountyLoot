@@ -1,0 +1,242 @@
+{
+  "categories": {
+    "Apple": [
+      {
+        "title": "Finding 0day to hack Apple",
+        "link": "https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md"
+      }
+    ],
+    "Microsoft": [
+      {
+        "title": "Making Clouds Rain :: Remote Code Execution in Microsoft Office 365",
+        "link": "https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html"
+      },
+      {
+        "title": "“Important, Spoofing” - zero-click, wormable, cross-platform remote code execution in Microsoft Teams",
+        "link": "https://github.com/oskarsve/ms-teams-rce"
+      },
+      {
+        "title": "Django debug mode to RCE in Microsoft acquisition",
+        "link": "https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971"
+      },
+      {
+        "title": "Microsoft Apache Solr RCE Velocity Template | Bug Bounty POC",
+        "link": "https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/"
+      },
+      {
+        "title": "Microsoft Edge (Chromium) - EoP via XSS to Potential RCE",
+        "link": "https://leucosite.com/Edge-Chromium-EoP-RCE/"
+      },
+      {
+        "title": "Microsoft Edge Remote Code Execution",
+        "link": "https://leucosite.com/Microsoft-Edge-RCE/"
+      },
+      {
+        "title": "Remote Code Execution (RCE) on Microsoft’s 'signout.live.com'",
+        "link": "http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html"
+      },
+      {
+        "title": "Unauthorized Access to OData Entities + $2K Bounty From Microsoft",
+        "link": "https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2"
+      },
+      {
+        "title": "Microsoft Bug Bounty Writeup – Stored XSS Vulnerability",
+        "link": "https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/"
+      },
+      {
+        "title": "Reflected XSS on Microsoft.com via Angular Js template injection",
+        "link": "https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8"
+      }
+    ],
+    "Google": [
+      {
+        "title": "Cookie Tossing to RCE on Google Cloud JupyterLab",
+        "link": "https://blog.s1r1us.ninja/bug-bounty/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks"
+      },
+      {
+        "title": "Write Up: Google VRP N/A – Sandboxed RCE As Root On Apigee API Proxies",
+        "link": "https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/"
+      },
+      {
+        "title": "Write Up – Google Bug Bounty: XSS To Cloud Shell Instance Takeover (RCE As Root) – $5,000 USD",
+        "link": "https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/"
+      },
+      {
+        "title": "RCE in Google Cloud Deployment Manager",
+        "link": "https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html"
+      },
+      {
+        "title": "XS-Searching Google’s bug tracker to find out vulnerable source code",
+        "link": "https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549"
+      },
+      {
+        "title": "$36k Google App Engine RCE",
+        "link": "https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce"
+      },
+      {
+        "title": "Ok Google, Give Me All Your Internal DNS Information!",
+        "link": "https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/"
+      }
+    ],
+    "Facebook": [
+      {
+        "title": "How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM",
+        "link": "https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html"
+      },
+      {
+        "title": "HTML to PDF converter bug leads to RCE in Facebook server",
+        "link": "https://ysamm.com/?pd=280"
+      },
+      {
+        "title": "Facebook’s Burglary Shopping List",
+        "link": "https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/"
+      },
+      {
+        "title": "Change payment account of any Facebook commerce page",
+        "link": "https://ysamm.com/?p=50"
+      },
+      {
+        "title": "Expose business email and payment account balance of any Facebook commerce page.",
+        "link": "https://ysamm.com/?p=45"
+      },
+      {
+        "title": "Facebook Source Code Disclosure in ads API",
+        "link": "https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/"
+      },
+      {
+        "title": "Facebook BugBounty: Intercept incoming friend requests of Victim add/accept to your facebook account",
+        "link": "https://whitehatfamilyguy.blogspot.com/2019/04/hijacking-friend-requests-facebook.html"
+      },
+      {
+        "title": "$10000 Facebook SSRF (Bug Bounty)",
+        "link": "https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5"
+      }
+    ],
+    "Samsung": [
+      {
+        "title": "Samsung S20 - RCE via Samsung Galaxy Store App",
+        "link": "https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/"
+      },
+      {
+        "title": "How “Recon” helped Samsung protect their production repositories of SamsungTv, eCommerce / eStores",
+        "link": "https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd"
+      }
+    ],
+    "GitHub": [
+      {
+        "title": "GitHub Pages - Multiple RCEs via insecure Kramdown configuration - $25,000 Bounty",
+        "link": "https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html"
+      },
+      {
+        "title": "GitHub - RCE via git option injection (almost) - $20,000 Bounty",
+        "link": "https://devcraft.io/2020/10/18/github-rce-git-inject.html"
+      },
+      {
+        "title": "GitHub Desktop RCE (OSX)",
+        "link": "https://pwning.re/2018/12/04/github-desktop-rce/"
+      },
+      {
+        "title": "How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!",
+        "link": "https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html"
+      }
+    ],
+    "Discord": [
+      {
+        "title": "Discord Desktop app RCE",
+        "link": "https://mksben.l0.cm/2020/10/discord-desktop-rce.html"
+      }
+    ],
+    "E-commerce": [
+      {
+        "title": "How I dumped PII information of customers in an ecommerce site?",
+        "link": "https://rikeshbaniyaaa.medium.com/how-i-dumped-pii-information-of-customers-in-an-ecommerce-site-237761f813cf"
+      }
+    ],
+    "SQL Injection (SQLI)": [
+      {
+        "title": "Interesting case of SQLi",
+        "link": "https://medium.com/@mrnikhilsri/interesting-case-of-sqli-84cc3f4a5255"
+      },
+      {
+        "title": "How I got 450$ just in one Google search (SQLi + RXSS)?",
+        "link": "https://medium.com/@z.x/how-i-got-450-just-in-one-google-search-sqli-rxss-8c7c28ceba79"
+      },
+      {
+        "title": "Bug Bounty in Lockdown (SQLi and Business Logic)",
+        "link": "https://medium.com/@abhishake100/bug-bounty-in-lockdown-sqli-and-business-logic-98ab8cb5f661"
+      },
+      {
+        "title": "Utilizing Lockdown: Blind Sqli leads to Account Takeover & Data Extraction",
+        "link": "https://medium.com/@shakti.gtp/utilizing-lockdown-blind-sqli-leads-to-account-takeover-data-extraction-3705ce8bdb62"
+      }
+    ],
+    "Server-Side Request Forgery (SSRF)": [
+      {
+        "title": "Story of a really cool SSRF bug.",
+        "link": "https://vedanttekale20.medium.com/story-of-a-really-cool-ssrf-bug-cf88a3800efc"
+      },
+      {
+        "title": "$10000 Facebook SSRF (Bug Bounty)",
+        "link": "https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5"
+      },
+      {
+        "title": "31k$ SSRF in Google Cloud Monitoring led to metadata exposure",
+        "link": "https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html"
+      },
+      {
+        "title": "SSRF (Server Side Request Forgery) worth $4,913 | My Highest Bounty Ever !",
+        "link": "https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb"
+      }
+    ],
+    "Cross Site Scripting (XSS)": [
+      {
+        "title": "How I was rewarded a $1000 bounty after abusing File Upload functionality to Stored XSS Vulnerability leading to credential theft of a visitor on a website.",
+        "link": "https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94"
+      },
+      {
+        "title": "How I managed to trigger a Stored-XSS in an online store with the help of Cache Poisoning",
+        "link": "https://www.cysek.org/post/sxss-by-cache-poison-attack"
+      },
+      {
+        "title": "Blind XSS in Google Analytics Admin Panel — $3133.70",
+        "link": "https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a"
+      },
+      {
+        "title": "Stored XSS on Product Description [HIGH] — $400",
+        "link": "https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2"
+      }
+    ],
+    "Insecure Direct Object Reference (IDOR)": [
+      {
+        "title": "CSRF with IDOR - A Deadly Combo",
+        "link": "https://shahjerry33.medium.com/csrf-with-idor-a-deadly-combo-203e93967702"
+      },
+      {
+        "title": "API based IDOR to leaking Private IP address of 6000 businesses",
+        "link": "https://rafi-ahamed.medium.com/api-based-idor-to-leaking-private-ip-address-of-6000-businesses-6bc085ac6a6f"
+      },
+      {
+        "title": "Sensitive data leak using IDOR in integration service",
+        "link": "https://ronak-9889.medium.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e"
+      },
+      {
+        "title": "Worth $1,500 IDOR (Access Unauthorize Data)",
+        "link": "https://protector47.medium.com/worth-1-500-idor-access-unauthorize-data-52604aec99"
+      }
+    ],
+    "Injection Attacks": [
+      {
+        "title": "Multiple Host Header Attacks after bypassing protection with… a Header Attack",
+        "link": "https://victoni.github.io/multiple-header-injections-bug-hunting/"
+      },
+      {
+        "title": "Finding SQL injections fast with white-box analysis — a recent bug example",
+        "link": "https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76"
+      },
+      {
+        "title": "Server-Side Spreadsheet Injection – Formula Injection to Remote Code Execution",
+        "link": "https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/"
+      }
+    ]
+  }
+}
